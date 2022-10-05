@@ -727,12 +727,15 @@ input, select, textarea {
 			.image.main {
 				margin: 2rem 0;
 			}
+			.image.face {
+				margin: 2rem 0;
+			}
 
 		}
 
 		@media screen and (max-width: 480px) {
 
-			.image.main {
+			.image.face {
 				margin: 1.5rem 0;
 			}
 
